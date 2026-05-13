@@ -57,7 +57,7 @@ export default function Page() {
         </p>
 
         <a
-          href="https://discord.gg/clan-img"
+          href="https://discord.gg/zXCps224Df"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-2"
